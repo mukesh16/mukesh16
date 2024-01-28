@@ -1,5 +1,8 @@
-# Hi there / ନମସ୍କାର 👋
+# Hi there / ନମସ୍କାର   👋\🙏
 ![header](https://mukesh16.github.io/mukesh16/)
+
+## 🗃️ Projects (own) ...
+- [ipl_analytics](https://github.com/mukesh16/MTech/tree/ipl_analytics).
 
 ## 💡 I’m currently learning ...
 - Machine Learning
