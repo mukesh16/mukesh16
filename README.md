@@ -3,6 +3,7 @@
 
 ## 🗃️ Projects (own) ...
 - [ipl_analytics](https://github.com/mukesh16/MTech/tree/ipl_analytics).
+- [video_recommendation_system](https://github.com/mukesh16/MTech/tree/main/video_recommendation_system).
 
 ## 💡 I’m currently learning ...
 - Machine Learning
