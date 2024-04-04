@@ -5,6 +5,7 @@
 - [ipl_analytics](https://github.com/mukesh16/MTech/tree/ipl_analytics).
 - [video_recommendation_system](https://github.com/mukesh16/MTech/tree/main/video_recommendation_system).
 - [image_classification_CIFAR_10](https://github.com/mukesh16/MTech/tree/main/image_classification_CIFAR_10).
+- [Winning Space Race with Data Science](https://github.com/mukesh16/Applied_Data_Science_Capstone_SpaceX).
 
 ## 💡 I’m currently learning ...
 - Machine Learning
