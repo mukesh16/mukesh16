@@ -1,12 +1,16 @@
-# Hi there / ନମସ୍କାର 👋🙏  
+# Hi / ନମସ୍କାର 👋🙏, 
+## I'm Mukesh Kumar Sahu!  
 
-![Header](https://mukesh16.github.io/mukesh16/)  
+🔬 **MTech Scholar (Data Science & Engineering) @ NIT Silchar**  
+💡 **Data Scientist | AI/ML Researcher | Ex-TCS**  
+⚙️ **GNNs | MLOps | Big Data | Healthcare Analytics**  
 
-## 🏆 About Me  
-I am **Mukesh Kumar Sahu**, a **Data Scientist and AI/ML Researcher** with a strong foundation in **Graph Neural Networks, Big Data, and Healthcare Analytics**.  
-Currently pursuing an **M.Tech in Data Science & Engineering at NIT Silchar**, my research focuses on **predicting patient criticalness using Graph Neural Networks (GNNs) with the MIMIC-III dataset**.  
+## 🚀 About Me  
+I am a **Data Scientist and AI/ML Researcher** with a strong foundation in **Machine Learning, Deep Learning, Graph Neural Networks (GNNs), and Big Data Analytics**.  
+Currently pursuing an **M.Tech in Data Science & Engineering at NIT Silchar**, my research focuses on **predicting sepsis patient mortality** using **similarity-based graph models** with the **MIMIC-III dataset**.  
 
-I bring **2.4 years of experience as a Data Engineer at TCS**, where I specialized in **Airflow DAG orchestration, data pipeline optimization, and machine learning model deployment**. My passion lies in **bridging the gap between theory and real-world applications** through **data-driven AI solutions**.  
+With **2.4 years of experience as a Data Engineer at TCS**, I specialized in **Airflow DAG orchestration, data pipeline optimization, and ML model deployment**.  
+Currently, I am a **AI Scientist Intern at Tata Electronics Pvt Ltd**, exploring **MLOps, AI scalability, and automation**. My passion lies in bridging the gap between **theory and real-world applications** through **data-driven AI solutions**.  
 
 ---  
 
