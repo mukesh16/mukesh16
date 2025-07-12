@@ -87,7 +87,7 @@ Currently, I am a **AI Scientist Intern at Tata Electronics Pvt Ltd**, exploring
 
 ## 📬 How to Reach Me  
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/mukesh-kumar-sahu/)**  
-- 📄 **[Resume](https://github.com/mukesh16/mukesh16/blob/resume/Mukesh's%20Resume_.pdf)**  
+- 📄 **[Resume](https://github.com/mukesh16/mukesh16/blob/resume/Mukesh_Sahu.pdf)**  
 - 🏅 **[Research Profile (ORCID)](https://orcid.org/0009-0005-4007-7648)**  
 - 📧 **Email**: [sahumukeshkumar16@gmail.com](mailto:sahumukeshkumar16@gmail.com)  
 
